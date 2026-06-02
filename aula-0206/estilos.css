@@ -1,0 +1,21 @@
+#paragraf1 {
+color: blue;
+background-color:  grey;
+}
+#paragraf2 {
+    color: red;
+    background-color: beige;
+}
+#paragraf3 {
+    color: blue;
+    background-color: gray;
+}
+#paragraf4 {
+    color: red;
+    background-color: beige;
+}
+
+.paragrafo {
+    text-align: justify;
+    background-color: blueviolet;
+}
